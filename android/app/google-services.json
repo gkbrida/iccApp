@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "836587609416",
+    "project_id": "icc-app-rdrwvz",
+    "storage_bucket": "icc-app-rdrwvz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836587609416:android:cd95d20dd0326ecd0fa77d",
+        "android_client_info": {
+          "package_name": "com.mycompany.iccapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxtfuq66uokPcQmA3bFZ5o-yQ02LGbzKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
